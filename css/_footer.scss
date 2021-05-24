@@ -1,0 +1,21 @@
+.footer {
+  align-items: center;
+  border-top: 1px solid rgba(219,219,219,1);
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+  margin-top: auto;
+  background-color: $color_base;
+}
+
+.footer_inner {
+  width: 96%;
+  margin: auto 0;
+  text-align: center;
+}
+
+.footer_copy {
+  text-align: center;
+  color: #fff;
+  font-size: 1.2rem;
+}
